@@ -6,4 +6,4 @@ Utilisation : - Télécharger les fichiers
               - A utiliser avec Petit-Bac-JAVA-Back-End
               
 Note : - Le joueur peut demander à ce qu'un mot faux soit évaluer par le modérateur du site. 
-         La partie gestion du modérateur n'est pas fourni ici(Néanmoins, l'API nécessaire à la mise en place est fourni dans le back-end en java)
+         La partie gestion du modérateur n'est pas fourni ici(Néanmoins, l'API nécessaire à la mise en place est fournie dans le back-end en java)
